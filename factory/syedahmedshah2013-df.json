@@ -1,0 +1,9 @@
+{
+	"name": "syedahmedshah2013-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "99c7d2db-8a8d-498a-8825-942e408a31fc",
+		"tenantId": "4c27498e-9593-4ed8-9751-3638a2648f68"
+	}
+}
